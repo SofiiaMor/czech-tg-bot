@@ -4,8 +4,8 @@ import schedule
 import time
 import threading
 
-token = ''
-chat_id = ''
+token = ' '
+chat_id = ' '
 bot = telebot.TeleBot(token)
 
 CzRusDict = {}
